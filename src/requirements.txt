@@ -1,1 +1,2 @@
-
+- Google Colab
+- Make sure to change data locations as per environment.
